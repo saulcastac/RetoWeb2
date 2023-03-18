@@ -1,0 +1,31 @@
+{
+    "id": 10,
+    "song_name": "TOO BIZARRE",
+    "size(MB)": 15.3,
+    "tonality": "E major",
+    "kbps": 256,
+
+    "category": {
+      "id": 1,
+      "name": "EDM",
+      "subcategory": "Dubstep"
+    },
+
+    "Recommendations": {
+      "SongID1": null,
+      "SongID2": null
+    },
+
+    "photoUrls": [
+      "string"
+    ],
+
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+
+    "status": "available"
+  }
