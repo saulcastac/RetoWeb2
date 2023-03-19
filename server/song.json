@@ -1,31 +1,4 @@
-{
-    "id": 10,
-    "song_name": "TOO BIZARRE",
-    "size(MB)": 15.3,
-    "tonality": "E major",
-    "kbps": 256,
-
-    "category": {
-      "id": 1,
-      "name": "EDM",
-      "subcategory": "Dubstep"
-    },
-
-    "Recommendations": {
-      "SongID1": null,
-      "SongID2": null
-    },
-
-    "photoUrls": [
-      "string"
-    ],
-
-    "tags": [
-      {
-        "id": 0,
-        "name": "string"
-      }
-    ],
-
-    "status": "available"
-  }
+[{"id":"1","title":"Bohemian Rhapsody","artist":"Queen","album":"A Night at the Opera","year":1975,"tonalidad":"12A","size(MB)":15.3,"kbps":256},
+{"id":"2","title":"Stairway to Heaven","artist":"Led Zeppelin","album":"Led Zeppelin IV","year":1971,"tonalidad":"7A","size(MB)":10.2,"kbps":256},
+{"id":"3","title":"Hotel California","artist":"Eagles","album":"Hotel California","year":1976,"tonalidad":"1A","size(MB)":19.1,"kbps":256},
+{"id":"4","title":"(You're the) Devil in Disguise","artist":"Elvis Presley","album":"NONE","year":1963,"tonalidad":"7B","size(MB)":11.2,"kbps":256}]
